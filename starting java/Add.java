@@ -9,7 +9,7 @@ public class Add {
         int b = sc.nextInt(20);
         System.out.println("Sum = " + (a + b));
 
-        
+        sc.close();
 
     }
 
