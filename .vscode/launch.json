@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Add",
+            "request": "launch",
+            "mainClass": "Calculator.Add",
+            "projectName": "Java_4baf2331"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Calculator.Sum",
+            "projectName": "Java_4baf2331"
+        },
+        {
+            "type": "java",
             "name": "Diff",
             "request": "launch",
             "mainClass": "Calculator.Diff",
