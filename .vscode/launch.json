@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "even_odd",
+            "request": "launch",
+            "mainClass": "even_odd",
+            "projectName": "Java_4baf2331"
+        },
+        {
+            "type": "java",
             "name": "calculater",
             "request": "launch",
             "mainClass": "calculater",
