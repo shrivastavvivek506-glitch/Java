@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "vote",
+            "request": "launch",
+            "mainClass": "vote",
+            "projectName": "Java_4baf2331"
+        },
+        {
+            "type": "java",
             "name": "even_odd",
             "request": "launch",
             "mainClass": "even_odd",
