@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "age",
+            "request": "launch",
+            "mainClass": "age",
+            "projectName": "Java_4baf2331"
+        },
+        {
+            "type": "java",
             "name": "vote",
             "request": "launch",
             "mainClass": "vote",
